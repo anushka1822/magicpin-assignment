@@ -5,7 +5,7 @@ pydantic-settings
 sqlalchemy
 asyncpg
 python-dotenv
-
+greenlet
 # LLM Providers (Uncomment the one you actually plan to use)
 # openai
 # anthropic
