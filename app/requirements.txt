@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic>=2.0.0
+pydantic-settings
+sqlalchemy
+asyncpg
+python-dotenv
+
+# LLM Providers (Uncomment the one you actually plan to use)
+# openai
+# anthropic
+google-generativeai
